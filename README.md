@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ioannis Athanasiou
-- 👀 I’m interested in Computer Engineering and fincancial services industry
-- 🌱 I’m currently learning about web development, using C# ASP.NET MVC and MS-SQL Server.
+- 👀 I’m interested in Data Science and fincancial services industry
+- 🌱 I’m currently studying for my Masters in Data Science.
 - 📫 How to reach me: https://www.linkedin.com/in/ioannis-athanasiou-ba459216b/
 
 <!---
